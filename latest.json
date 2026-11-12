@@ -1,9 +1,9 @@
 {
-    "version":  "0.3.0",
-    "zip":  "https://github.com/MonkeyDHoffy/DirectorsBluff-Releases/releases/download/v0.3.0/DirectorsBluff-0.3.0.zip",
-    "sha256":  "51e606b7b5274c7a31158d08b84a181dcd5b8f704abaf13eed65e99dda97a3ef",
-    "size":  360537632,
-    "notes":  "Table layout, cinema mode, new controls, props department, showdown, daily wage, ambience, online tables (beta).",
+    "version":  "0.3.1",
+    "zip":  "https://github.com/MonkeyDHoffy/DirectorsBluff-Releases/releases/download/v0.3.1/DirectorsBluff-0.3.1.zip",
+    "sha256":  "7cc3537b414e73b233d6c6fc20e3d96348e3de681173b70a61ddcfd0900bc35c",
+    "size":  360546696,
+    "notes":  "Online fix: the game now connects to the relay on port 8443 (port 7777 was blocked by the server host\u0027s firewall, so HOST/JOIN TABLE showed \u0027cannot reach the online server\u0027). No gameplay changes.",
     "launcher_version":  "1.0.0",
-    "launcher_url":  "https://github.com/MonkeyDHoffy/DirectorsBluff-Releases/releases/download/v0.3.0/DirectorsBluffLauncher.exe"
+    "launcher_url":  "https://github.com/MonkeyDHoffy/DirectorsBluff-Releases/releases/download/v0.3.1/DirectorsBluffLauncher.exe"
 }
